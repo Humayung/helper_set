@@ -4,8 +4,8 @@ version: 0.0.8
 homepage: https://github.com/IkhwanSI13/helper_set
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
-  flutter: ">=3.10.0"
+  sdk: ">=2.18.0 <4.0.0"
+  flutter: ">=3.3.2"
 
 dependencies:
   flutter:
